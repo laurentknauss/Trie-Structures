@@ -22,6 +22,6 @@ Run  `go run main.go` .<br>
 
 The output should be as follows : <br> 
 
-![Alt text](./bst_output.png)
+`2 5 7 10 12 15 18` 
 
 
