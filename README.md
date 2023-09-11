@@ -7,9 +7,9 @@ The codebase demonstrates the basic operations of a BST, including insertion and
 The implementation is simple, yet effective, and serves as a great starting point for anyone looking to understand the fundamentals of BSTs.
 
 Features:<br>
-Node structure to represent each node in the BST.<br>
-Insertion of nodes into the BST.<br>
-In-order traversal of the BST.<br>
+-Node structure to represent each node in the BST.<br>
+-Insertion of nodes into the BST.<br>
+-In-order traversal of the BST.<br>
 
 Here is a drawing of the binary search tree structure  for our particular case :<br>
 <br>
