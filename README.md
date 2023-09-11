@@ -6,10 +6,10 @@ This repository contains an implementation of a Binary Search Tree (BST) in Gola
 The codebase demonstrates the basic operations of a BST, including insertion and in-order traversal.<br>
 The implementation is simple, yet effective, and serves as a great starting point for anyone looking to understand the fundamentals of BSTs.
 
-Features
-Node structure to represent each node in the BST
-Insertion of nodes into the BST
-In-order traversal of the BST
+Features:<br>
+Node structure to represent each node in the BST.<br>
+Insertion of nodes into the BST.<br>
+In-order traversal of the BST.<br>
 
 Here is a drawing of the binary search tree structure  for our particular case :<br>
 <br>
