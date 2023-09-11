@@ -11,7 +11,7 @@ Node structure to represent each node in the BST
 Insertion of nodes into the BST
 In-order traversal of the BST
 
-Here is a drwaing of the binary search tree structure  for our particular case :<br>
+Here is a drawing of the binary search tree structure  for our particular case :<br>
 <br>
 
 ![Alt text](./binary_search_tree.png)
