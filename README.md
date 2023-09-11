@@ -3,14 +3,12 @@
 
 This repository contains an implementation of a Binary Search Tree (BST) in Golang.<br>
 The codebase demonstrates the basic operations of a BST, including insertion and in-order traversal.<br>
-The implementation is simple, yet effective, and serves as a great starting point for anyone looking to understand the fundamentals of BSTs.
-<br>
-<br>
+The implementation is simple, yet effective, and serves as a great starting point for anyone looking to understand the fundamentals of BSTs.<br><br>
 
 **Features:**<br>
 -Node structure to represent each node in the BST.<br>
 -Insertion of nodes into the BST.<br>
--In-order traversal of the BST.<br>
+-In-order traversal of the BST.<br><br>
 <br>
 
 
@@ -19,7 +17,7 @@ A node can have at most 2 child nodes .
 *One child node on the left , containing values less than the node .<br>
 *One child node on the right , containing values greater than the node .<br> 
 *A node can also have just one child, either on the left or either on the right .<br>
-*A node can also have no children, it is then reffered as a 'leaf node '.<br> 
+*A node can also have no children, it is then reffered as a 'leaf node '.<br><br>
 
 
 
