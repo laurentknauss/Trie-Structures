@@ -11,6 +11,15 @@ The implementation is simple, yet effective, and serves as a great starting poin
 -Node structure to represent each node in the BST.<br>
 -Insertion of nodes into the BST.<br>
 -In-order traversal of the BST.<br>
+In a nutshell :<br>
+A node can have at most 2 child nodes . 
+*One child node on the left , containing values less than the node .<br>
+*One child node on the right , containing values greater than the node .<br> 
+*A node can also have just one child, either on the left or either on the right .<br>
+*A node can also have no children, it is then reffered as a 'leaf node '.<br> 
+
+
+
 
 Here is a drawing of the binary search tree structure  for our particular case :<br>
 <br>
