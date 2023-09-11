@@ -10,6 +10,8 @@ Node structure to represent each node in the BST
 Insertion of nodes into the BST
 In-order traversal of the BST
 
+Here is a drwaing of the binary search tree structure  for our particular case : 
+![Alt text](./binary_search_tree.png)
 
 *How to Run*<br>
 
@@ -17,9 +19,8 @@ Clone this repository to your local machine.<br>
 Navigate to the directory containing the main.go file.<br>
 Run  `go run main.go` .<br>
 
+The output should be as follows : <br> 
 
-*The output should be :* <br> 
-
-![Alt text](./binary_search_tree.png)
+![Alt text](./ouput.png)
 
 
