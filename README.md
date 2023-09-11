@@ -15,6 +15,7 @@ Here is a drawing of the binary search tree structure  for our particular case :
 <br>
 
 ![Alt text](./binary_search_tree.png)
+source: Wolfram ChatGPT plugin .
 
 *How to Run*<br>
 
