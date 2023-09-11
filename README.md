@@ -1,13 +1,13 @@
 
-**Binary Search Tree in Golang**
+# **Binary Search Tree in Golang**<br>
 
 This repository contains an implementation of a Binary Search Tree (BST) in Golang.<br>
 The codebase demonstrates the basic operations of a BST, including insertion and in-order traversal.<br>
 The implementation is simple, yet effective, and serves as a great starting point for anyone looking to understand the fundamentals of BSTs.
 <br>
+<br>
 
-
-Features:<br>
+**Features:**<br>
 -Node structure to represent each node in the BST.<br>
 -Insertion of nodes into the BST.<br>
 -In-order traversal of the BST.<br>
