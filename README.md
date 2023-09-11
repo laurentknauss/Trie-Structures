@@ -11,6 +11,9 @@ The implementation is simple, yet effective, and serves as a great starting poin
 -Node structure to represent each node in the BST.<br>
 -Insertion of nodes into the BST.<br>
 -In-order traversal of the BST.<br>
+<br>
+
+
 In a nutshell :<br>
 A node can have at most 2 child nodes . 
 *One child node on the left , containing values less than the node .<br>
