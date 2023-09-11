@@ -22,6 +22,6 @@ Run  `go run main.go` .<br>
 
 The output should be as follows : <br> 
 
-![Alt text](./output.png)
+![Alt text](./bst_output.png)
 
 
