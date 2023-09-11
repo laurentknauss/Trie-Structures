@@ -16,3 +16,10 @@ In-order traversal of the BST
 Clone this repository to your local machine.<br>
 Navigate to the directory containing the main.go file.<br>
 Run  `go run main.go` .<br>
+
+
+*The output should be :* <br> 
+
+![Alt text](./binary_search_tree.png)
+
+
