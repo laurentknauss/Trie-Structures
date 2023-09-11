@@ -14,7 +14,7 @@ In-order traversal of the BST
 Here is a drawing of the binary search tree structure  for our particular case :<br>
 <br>
 
-![Alt text](./binary_search_tree.png)
+![Alt text](./binary_search_tree.png) <br>
 source: Wolfram ChatGPT plugin .
 
 *How to Run*<br>
